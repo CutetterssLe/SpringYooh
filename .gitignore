@@ -1,0 +1,14 @@
+.settings/
+target/
+.classpath
+.project
+.rules
+*.log
+.idea/
+*.iml
+**/src/main/**/rebel.xml
+/src/test/
+.sass-cache/
+.DS_Store
+
+.rebel.xml.bak
